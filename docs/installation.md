@@ -29,10 +29,10 @@ $ sudo yum install libcurl-devel openssl-devel
 Clone with Git:
 
 ``` bash
-$ git clone https://github.com/yunify/qingstor-sdk-cpp.git
+$ git clone https://github.com/yunify/qingstor-sdk-objective-c.git
 ```
 
-You can also download a specified version of zipped source code in the repository [releases page](https://github.com/yunify/qingstor-sdk-cpp/releases). The zipped source code only contains source code without unit test files.
+You can also download a specified version of zipped source code in the repository [releases page](https://github.com/yunify/qingstor-sdk-objective-c/releases). The zipped source code only contains source code without unit test files.
 
 
 ### Creating an Out-of-Source Build (Recommended):
