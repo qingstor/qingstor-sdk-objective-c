@@ -1,4 +1,4 @@
-QingStor SDK for C and C++
+QingStor SDK for Objective C
 Copyright (C) 2017 Yunify, Inc. or its affiliates. All Rights Reserved.
 
     This product includes software developed by

@@ -1,7 +1,7 @@
-# QingStor SDK for C and C++
+# QingStor SDK for Objective C
 
 
-The official QingStor SDK for the C and C++ programming language.
+The official QingStor SDK for the Objective C programming language.
 
 The project is implemented with C++.
 It also provides C style interface ( C wrapper for C++ interface ). 

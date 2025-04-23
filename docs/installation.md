@@ -2,7 +2,7 @@
 
 ## Requirement
 
-To use the QingStor SDK for C and C++, you need:
+To use the QingStor SDK for Objective C, you need:
 
 * Visual Studio 2013 or later
 * OR GNU Compiler Collection (GCC) 4.1.2 or later
